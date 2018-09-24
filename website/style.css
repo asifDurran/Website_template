@@ -1,0 +1,24 @@
+.top_bar{
+background-color: #FF0000;
+padding: 10px;
+}
+.social-icon{
+margin-right: 5px;
+}
+.contact_info{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.navigation{
+    margin-top: 60px;
+}
+.navigation .nav-pills.nav-item a{
+    background-color: #FF0000;
+}
+.responsive{
+    margin-top:10px;
+}
+our_courses.second_row{
+margin-top: 25px;   
+}
